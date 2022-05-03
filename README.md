@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katamatitus
-- 👀 I’m interested in webdelopment
+- 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me twitter @tituskatama
