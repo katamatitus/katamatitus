@@ -2,7 +2,10 @@
 - 👀 I’m interested in webdevelopment
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on opensource
-- 📫 How to reach me twitter @tituskatama
+- 📫 How to reach me:
+         twitter: @tituskatama
+         linkedIn: Titus katama
+         Fiverr: tituskamene
 
 <!---
 katamatitus/katamatitus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
