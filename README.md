@@ -10,10 +10,9 @@ What I Do:
 
 Tools & Technologies:
 Wix Editor, Wix Velo
-
 HTML, CSS, JavaScript
-
 Canva
-- 📫 How to reach me:
+
+📫 How to reach me:
          twitter: @tituskatama
          linkedIn: Titus katama
